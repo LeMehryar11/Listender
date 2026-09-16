@@ -6,7 +6,7 @@ This document outlines the directory structure and the responsibilities of each 
 /
 ├── .github/
 │   └── workflows/
-│       └── android.yml                              # GitHub Actions CI workflow to test, build APK, and publish GitHub Releases on tags
+│       └── android.yml                              # GitHub Actions CI workflow to test, build APK, and automatically publish GitHub Releases
 ├── app/
 │   ├── src/
 │   │   ├── main/
