@@ -1,0 +1,6 @@
+{
+  "name": "Listender",
+  "description": "Minimalist, offline-first to-do and star habit tracker with Performance analytics across Daily, Weekly, Monthly, and Yearly scopes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
